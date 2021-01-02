@@ -6,11 +6,7 @@
 
 - [Website](http://digitiba.com/) 💻 - Working on it.
 
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
-![image](https://github.com/ricardovolert/ricardovolert/blob/master/mario.gif)
+![image](https://media.giphy.com/media/i2rNOf3b7vJgk/source.gif)
 
 I am 29 years old, I am a Physicist and Systems Analyst, with some specializations but looking to obtain a Master in Physics and Astronomy. Since I was 10 years old I got in touch with HTML, having really learned about the subject at the age of 14 and at 16 I built at least four websites at the Federal University of Paraná and I specialized in CSS. At the age of 18 I learned PHP and MySQL. I worked in a development company for a short time because of approval to be a public server in the field of Physics. Unfortunately over the years, much of my work has been erased because it has become a legacy, however now, 9 years later, I am updating myself, I am studying the source codes to create new projects and solutions.
 
