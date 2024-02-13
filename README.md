@@ -18,11 +18,9 @@ Born in times when NVU was my best friend, I grew up and worked as a developer, 
 
 For years I performed several other tasks and jobs, which made my PHP5.3 / 7.0 codes become a ⚡legacy 😄 and become the reason for the desire for a professional renewal and relearning;
 
-Linux user ❤, my main development tools for Apache2 / NodeJS are Gedit, Visual Studio Code, GitKraken, FileZilla and Shell Terminal 💻;
+Linux user ❤ but 💻 recently I am returning to using Windows again;
 
-🌱 Recently I am returning to using Windows versions 10 and 11 again;
-
-I have used Fortran, C, C++, C#, Java, PHP several times, however, since 2018, I have been in a close relationship with Python and C; 
+🌱 I have used Fortran, C, C++, C#, Java, PHP several times, however, since 2018, I have been in a close relationship with Python and C; 
 
 ### ... Not just IT
 
