@@ -22,8 +22,4 @@ Linux user ❤ but 💻 recently I am returning to using Windows again;
 
 🌱 I have used Fortran, C, C++, C#, Java, PHP several times, however, since 2018, I have been in a close relationship with Python and C; 
 
-### ... Not just IT
-
-🔭 I still have a degree in Physics and because of the academic environment 👨, one day I aspire to be a good researcher 🤔 as an experimental physicist and computational physicist.
-
 ⚡
