@@ -24,6 +24,6 @@ I consider myself a theoretical, experimental and computational physicist, but i
 
 Well, that's it... I'm sorry for taking up your time so far, and I hope there are useful projects when you look at my profile (if not, I'm probably busy solving lists of classical electrodynamics or quantum mechanics exercises, or else I'm writing something from doctorate degree).
 
-Oh, don't be scared by my description above. I can be a bit dull, whether I listen to heavy metal or not, in addition, I can have a dubious or sarcastic sense of humor, but mainly, I may not be as smart as my training says I am, as my tastes fluctuate according to the time and not everything that I study I record. At the end of the day, I'm a good person and if I'm single and you are too, well, come along, woman!
+Oh, don't be scared by my description above. I can be a bit dull, whether I listen to heavy metal or not, in addition, I can have a dubious or sarcastic sense of humor, but mainly, I may not be as smart as my training says I am, as my tastes fluctuate according to the time and not everything that I study I record. At the end of the day, I'm a good person and if I'm single and you are too, well, come along, girl!
 
 ... See you later!
