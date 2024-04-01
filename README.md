@@ -8,7 +8,7 @@ I'm 33 years old, I'm a PhD candidate in Physics and I'm specializing in Applied
 
 Born at a time when NVU (and sometimes MS FrontEnd) was my best friend, I grew up and worked as a developer, but life separated me from this project of a very cool career that I previously considered just a ✨hobby✨.
 
-🌱 At some point in my life I have programmed in C/C++, C#, Fortran, PHP, Python, R, Flutter and Java. I also play with MongoDB and MySQL databases. I also know a few things about CSS, HTML, JS, Figma and REST API.
+🌱 At some point in my life I have programmed in C/C++, C#, Fortran, PHP (with or without Laravel/Blade), Python, R, Flutter and Java. I also play with MongoDB and MySQL databases. I also know a few things about Shell Script, CSS, HTML, Jquery (RIP), JS, Angular (RIP), AngularJs, Figma and REST API.
 
 I'm a Linux user (mostly Ubuntu), but recently I'm using Windows 11 (because it's the default on my laptop 💻 and well, it's a Samsung Book3 360 ❤).
 
@@ -20,7 +20,7 @@ My master's degree was in extragalactic astrophysics where, through numerical n-
 
 Now, during my doctorate, I am carrying out work related to experimental physics with a focus on Condensed Matter Physics, specifically on the magnetic properties of thin films and spintronics, for this I will use various equipment such as lasers, X-ray diffractometers, Raman spectroscopy, etc., and I will also use DFT (Density Functional Theory) simulations.
 
-I consider myself a theoretical, experimental and computational physicist, but in constant training. This Github of mine will be used to add codes that I find interesting, be it Physics or just scripts for development projects.
+I consider myself a theoretical, experimental and computational physicist, but in constant training. This Github of mine will be used to add codes that I find interesting, be it Physics or just scripts for development projects. I hope that the repositories here end up having teaching materials that I will prepare for my website (study notebook = ![Google Sites](https://sites.google.com/view/ricardovolert/)). I have an ambitious project to create updated textbooks for the subjects I studied in college (and which are normally canonical) and, over time, extend them to the exact science subjects I know. So I hope there is a lot of LaTeX code here.
 
 Well, that's it... I'm sorry for taking up your time so far, and I hope there are useful projects when you look at my profile (if not, I'm probably busy solving lists of classical electrodynamics or quantum mechanics exercises, or else I'm writing something from doctorate degree).
 
