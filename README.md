@@ -2,24 +2,26 @@
 
 ![image](https://media.giphy.com/media/i2rNOf3b7vJgk/source.gif)
 
-I am 33 years old, I am a Physicist (full degree and master's degree) and Systems Analyst, with some specializations in Teaching Astronomy and also in Information Technology. During my master's degree, I analyzed the process of formation of galaxy clusters through numerical simulations.
+Hi... I hope you're doing well?
 
-Now, I'm starting my PhD in Physics in a new area. I am taking my first steps towards becoming an Experimental Physicist, where I will study Magnetic Films and Nanostructures.
+I'm 33 years old and I'm a PhD student in Physics and I'm studying a specialization in Applied Artificial Intelligence. I have a degree in physics (full degree) and a technologist in systems analysis and development who lives in Curitiba.
 
-Furthermore, I am studying a specialization in Applied Artificial Intelligence, as my training ends up being integrated and will be well used during the doctorate.
+Born in times when NVU was my best friend, I grew up and worked as a developer, mainly MS FrontEnd, however, life separated me from this project from a very cool career that before considered only a ✨hobby✨.
 
-#### About my developer routine, it's not big or beautiful, but it was really cool.
+🌱 I program in C/C++, Fortran, PHP, Python, R, Flutter and Java. I also play with MongoDB and MySQL databases. I also know a thing or two about CSS, HTML, JS and REST API.
 
-Since the age of 10 I have had contact with HTML, having learned a lot about the subject at the age of 14 and at the age of 16 I built at least four websites at the Federal University of Paraná and specialized in CSS. At 18 I learned PHP and MySQL. I worked in a development company for a short time due to being approved to be a public servant in the Physics area. Unfortunately, over the years, a lot of my work was erased because it became a legacy, but now, 9 years later, I'm updating myself, I'm studying the source codes to create new projects and solutions. In 2023, I worked as a Robotics, Programming and Physics teacher for high school at a Public School in Curitiba, in the State of Paraná. 
+Linux (Ubuntu) user ❤ but 💻 recently I am using Windows 11 (because it is the default on my laptop)⚡.
 
-### Front / Back Programmer since childhood
+Sometimes I venture into Arduino and ESP32 projects, I've even worked as a Physics, Programming and Robotics teacher for a High School.
 
-Born in times when NVU was my best friend, I grew up and worked as a developer, mainly FrontEnd, however, life separated me from this project from a very cool career that before considered only a ✨hobby✨;
+For years I performed several other tasks and jobs, which made my PHP5.3 / 7.0 codes become a ⚡legacy 😄 and become the reason for the desire for a professional renewal and relearning. So I'm refactoring my repositories on Github and will create new projects as I go.
 
-For years I performed several other tasks and jobs, which made my PHP5.3 / 7.0 codes become a ⚡legacy 😄 and become the reason for the desire for a professional renewal and relearning;
+My master's degree was in extragalactic astrophysics where, through n-body simulations, I studied the merger/formation processes of galaxy clusters and for this I used two supercomputers (one at USP, the University of São Paulo and another at LNCC, the Santos Supercomputer Dumont) and analyzed the data using different techniques and also using machine learning with GMM and K-means.
 
-Linux user ❤ but 💻 recently I am returning to using Windows again;
+Now, during my doctorate, I carried out work related to experimental physics focusing on Condensed Matter Physics, specifically on the magnetic properties of thin films and spintronics, for this I will use various equipment such as lasers, X-ray diffractometers, Raman spectroscopy, etc., and I will also use DFT (Functional Density Theory) simulations.
 
-🌱 I have used Fortran, C, C++, C#, Java, PHP several times, however, since 2018, I have been in a close relationship with Python and C; 
+I consider myself a theoretical, experimental and computational physicist, but in constant training. This repository will be for adding codes that you find interesting, whether in Physics or just scripts for dev projects.
 
-⚡
+Well, that's it... I'm sorry for taking up your time so far and I hope there are useful projects when you look at my profile (if not, I'm probably busy solving lists of exercises in classical electrodynamics or quantum mechanics, or else I'm writing something from the doctorate).
+
+... until later!
