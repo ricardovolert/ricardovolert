@@ -1,3 +1,6 @@
+![Ricardo Volert - GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardovolert&show_icons=true&theme=transparent)
+
+
 ### About me
 
 ![image](https://media.giphy.com/media/i2rNOf3b7vJgk/source.gif)
