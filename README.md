@@ -1,5 +1,5 @@
 ![Ricardo Volert - GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardovolert&show_icons=true&theme=transparent)
-
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardovolert&layout=compact&langs_count=8&theme=dracula&exclude_repo=financial-manager-old"/>
 
 ### About me
 
