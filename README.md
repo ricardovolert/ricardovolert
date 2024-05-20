@@ -8,6 +8,8 @@ Hello... I hope you are well.
 
 I'm from Curitiba, I'm 33 years old and I have a master's degree in Physics and I'm specializing in Applied Artificial Intelligence. I once tried to get a PhD in Physics, but due to different experiences, I think I am satisfied with my level of education.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5rUkqvCDVY" frameborder="0" allowfullscreen></iframe>
+
 My master's degree was in extragalactic astrophysics where, through numerical n-body simulations, I studied the merger/formation processes of galaxy clusters and for this I used two Brazilian supercomputers (one at USP, the University of São Paulo and another at LNCC, the Santos Dumont Supercomputer) and analyzed the data using different techniques and also using machine learning such as Gaussian Mixtures (GMM) and K-means.
 
 I have a degree in physics (full degree and bachelor's degree) and in systems analysis and development where I have a specialization in Information Technology and Astronomy Teaching.
