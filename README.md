@@ -4,7 +4,7 @@
 
 Senior Software/AI/ML Engineer
 
-**About me**
+## 💻 About me
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
@@ -29,7 +29,15 @@ Senior Software/AI/ML Engineer
 </a>
 
 <br />
-<br />
+
+## 👨‍💻 Languages
+
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardovolert&layout=compact&theme=vision-friendly-dark" alt="top-languages" />
+</div>
 
 
 ## 🔥 Streak
