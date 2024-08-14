@@ -25,8 +25,8 @@ Senior Software/AI/ML Engineer
 <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nosql/nosql-original.svg" alt="nosql" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
