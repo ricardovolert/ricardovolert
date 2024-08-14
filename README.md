@@ -1,29 +1,32 @@
-<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardovolert&layout=compact&langs_count=8&theme=dracula&exclude_repo=financial-manager-old"/> <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardovolert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p align="center"><a href=https://ricardovolert.github.io/><img width="80%" alt="Hello, I'm Ricardo. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-![image](https://media.giphy.com/media/i2rNOf3b7vJgk/source.gif)
+<br />
 
-## About me
+Senior Software/AI/ML Engineer
 
-Hello... I hope you are well.
+**About me**
 
-I'm from Curitiba, I'm 33 years old and I have a master's degree in Physics and I'm specializing in Applied Artificial Intelligence. I once tried to get a PhD in Physics, but due to different experiences, I think I am satisfied with my level of education.
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-My master's degree was in extragalactic astrophysics where, through numerical n-body simulations, I studied the merger/formation processes of galaxy clusters and for this I used two Brazilian supercomputers (one at USP, the University of São Paulo and another at LNCC, the Santos Dumont Supercomputer) and analyzed the data using different techniques and also using machine learning such as Gaussian Mixtures (GMM) and K-means.
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-I have a degree in physics (full degree and bachelor's degree) and in systems analysis and development where I have a specialization in Information Technology and Astronomy Teaching. Sometimes I venture into Arduino projects and I have even worked as a Physics, Programming and Robotics teacher in high school for the State Department of Education of the Government of Paraná.
 
-... I think I want a break from Physics.
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardovolert&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ricardovolert's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardovolert&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-Born at a time when NVU (and sometimes MS FrontEnd) was my best friend, I grew up and worked as a developer, but life separated me from this really cool career project that I previously considered just a ✨hobby✨.
+#### Top Repositories
 
-🌱 At some point in my life I programmed in LaTeX, Cobol, C/C++, C#, Fortran, PHP (with or without Laravel/Blade), Python, R, Flutter and Java. I also play with MongoDB and MySQL databases. I also know a few things about Shell Script, CSS, HTML, Jquery, JS, Angular, AngularJs, Figma and REST API.
 
-I'm a Linux user (mostly Ubuntu), but recently I'm using Windows 11 (because it's the default on my laptop 💻 and well, it's a Samsung Book3 360 ❤).
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
-On this Github I will create some basic projects or ones that I find different or attractive.
-
-... I'm not sure if I will use all the languages ​​above, but I want to start simple projects and see which way I will follow.
-
-...Until later!
-
-[![Good Music](https://img.youtube.com/vi/m5rUkqvCDVY/0.jpg)](https://www.youtube.com/watch?v=m5rUkqvCDVY)
+<br />
+<br />
