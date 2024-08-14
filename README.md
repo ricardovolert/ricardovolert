@@ -1,7 +1,3 @@
-<p align="center"><a href=https://ricardovolert.github.io/><img width="80%" alt="Hello, I'm Ricardo. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
 Senior Software/AI/ML Engineer
 
 ## 💻 About me
@@ -21,7 +17,7 @@ Senior Software/AI/ML Engineer
 #### Top Repositories
 
 <a href="https://github.com/ricardovolert/tina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=tina&theme=buefy" />
 </a>
 <a href="https://github.com/ricardovolert/ricardovolert.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=ricardovolert.github.io&theme=buefy" />
