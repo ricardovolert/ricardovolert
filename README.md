@@ -35,7 +35,7 @@ Senior Software/AI/ML Engineer
 ## 🔥 Streak
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
-<img src="https://streak-stats.demolab.com?user=TheShiveshNetwork&theme=highcontrast" alt="github-streak" />
+<img src="https://streak-stats.demolab.com?user=ricardovolert&theme=buefy" alt="github-streak" />
 <div style="width: calc(50% - 40px); padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
     <h3 style="color: #9F9F9F; margin: 0;">Support</h3>
     <a href="" target="_blank" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;"></a>
