@@ -19,8 +19,8 @@ Senior Software/AI/ML Engineer
 <a href="https://github.com/ricardovolert/tina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=tina&theme=buefy" />
 </a>
-<a href="https://github.com/ricardovolert/ricardovolert.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=ricardovolert.github.io&theme=buefy" />
+<a href="https://github.com/ricardovolert/loki-animation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=loki-animation&theme=buefy" />
 </a>
 
 <br />
