@@ -20,11 +20,11 @@ Senior Software/AI/ML Engineer
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ricardovolert/tina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/ricardovolert/ricardovolert.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardovolert&repo=ricardovolert.github.io&theme=buefy" />
 </a>
 
 <br />
